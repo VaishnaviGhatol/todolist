@@ -1,0 +1,23 @@
+#note-body{
+    margin-top: 200px;
+}
+#header{
+    background-image: url("S:\WEB DEV\REACT\Classtest\testtwo\src\WhatsApp Image 2024-04-13 at 15.04.46_08124151.jpg");
+    height: 200px;
+    background-repeat: no-repeat;
+
+}
+#footer{
+    background-image: url("S:\WEB DEV\REACT\Classtest\testtwo\src\WhatsApp Image 2024-04-13 at 15.04.46_08124151.jpg");
+    height: 200px;
+    background-repeat: no-repeat;
+    
+}
+#input-one{
+    background-color: lightpink;
+}
+#text-area{
+    background-color: violet;
+    margin: 50px 0px;
+    height: 40px;
+}
