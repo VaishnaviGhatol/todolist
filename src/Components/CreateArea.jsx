@@ -32,18 +32,18 @@ const CreateArea = (props) => {
             }
         )
 
-
     }
     return (
         <div id='note-body'>
-            <h1>^_^ Welcome to Color Notes ^_^</h1>
-            <form>
+            {/* <h1 >^_^ Color Notes ^_^</h1> */}
+            <form id='form-body'>
                 {isExpanded &&
                     <input id='input-one'
                         name='title'
                         onChange={handleChange}
                         placeholder='Title'
                         value={note.title}
+                       
                     />}
 
                 <textarea

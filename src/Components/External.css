@@ -1,23 +1,57 @@
-#note-body{
-    margin-top: 200px;
-}
-#header{
-    background-image: url("S:\WEB DEV\REACT\Classtest\testtwo\src\WhatsApp Image 2024-04-13 at 15.04.46_08124151.jpg");
-    height: 200px;
-    background-repeat: no-repeat;
 
-}
-#footer{
-    background-image: url("S:\WEB DEV\REACT\Classtest\testtwo\src\WhatsApp Image 2024-04-13 at 15.04.46_08124151.jpg");
-    height: 200px;
-    background-repeat: no-repeat;
-    
-}
 #input-one{
-    background-color: lightpink;
-}
-#text-area{
     background-color: violet;
-    margin: 50px 0px;
-    height: 40px;
-}
+      margin: 50px 0px;
+      height: 40px;
+    }
+    #text-area{
+       background-color: lightpink;
+    }
+    #add{
+        margin: 50px;
+    }
+    #form-body{
+        margin-top: 150px;
+        display: grid;
+        justify-content: center;
+        align-items: center;
+        background-image: url(https://cdn.pixabay.com/photo/2023/04/18/20/21/flowers-7935942_640.jpg);
+        background-repeat: no-repeat;
+        background-position: 430px;
+    }
+    #welcome{
+        background-image: url(https://www.color-hex.com/palettes/105524.png);
+      
+       
+    }
+    #my-created-notes{
+        padding-top: 150px;
+        height: 400px;
+        background-repeat: no-repeat;
+        background-image: url(https://i.pinimg.com/736x/67/24/ed/6724edb47bc881e7d3545e6b2614d28d.jpg);
+        background-position: 560px;
+       color:teal;
+    }
+    #my-content{
+        font-size: 28px;
+        font-weight: bolder;
+        color:crimson;
+    }
+
+  #brand-logo{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+  }
+
+  .menu{
+    font-size: 18px;
+    font-family:cursive;
+  }
+
+  #footer{
+    background-color: teal;
+  }
+  .my-app{
+    height: 60vh;
+  }
